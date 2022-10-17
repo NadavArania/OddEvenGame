@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    padding: 100px;
+  }
+
+.show{
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
